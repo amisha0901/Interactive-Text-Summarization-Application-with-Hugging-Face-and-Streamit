@@ -5,7 +5,7 @@
 3) Configured model parameters for text summarization to optimize performance.
 4) Enhanced user interaction with real-time feedback and intuitive UI using Streamlit framework.
 
-Features:
+Features:-
 
 Text Summarization: Uses the Falcon-7B model from Hugging Face to generate concise and accurate summaries of input text.
 
@@ -18,7 +18,7 @@ Real-time Feedback: Interactive UI built with Streamlit for real-time feedback o
 Intuitive User Interface: Clean and user-friendly interface designed with Streamlit, allowing users to input text, adjust settings, and view summaries with minimal effort.
 
 
-Technologies Used:
+Technologies Used:-
 
 Hugging Face Transformers: For implementing the Falcon-7B model for text summarization.
 
@@ -27,7 +27,7 @@ Streamlit: For creating the interactive, real-time front-end user interface.
 Python: Main programming language used to tie everything together.
 
 
-How to Run:
+How to Run:-
 
 Install the required libraries: pip install -r requirements.txt.
 
@@ -36,7 +36,7 @@ Run the Streamlit app: streamlit run app.py.
 Input your text and get a summary in real-time!
 
 
-Future Improvements:
+Future Improvements:-
 
 Integrating additional models for multi-language support.
 
