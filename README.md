@@ -6,6 +6,7 @@
 4) Enhanced user interaction with real-time feedback and intuitive UI using Streamlit framework.
 
 Features:
+
 Text Summarization: Uses the Falcon-7B model from Hugging Face to generate concise and accurate summaries of input text.
 Large Text Handling: Implements text splitting functionality to process lengthy documents or articles in smaller chunks, ensuring efficient and error-free summarization.
 Optimized Performance: Configures model parameters and optimization techniques to enhance summarization speed and quality.
